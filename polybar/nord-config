@@ -64,7 +64,7 @@ wm-restack = bspwm
 
 # Top modules
 top-left = rofi-run bspwm title
-top-center = mpd
+top-center = 
 top-right = keyboard clipmenu-widget onedrive-widget clash-widget pulseaudio backlight  network-short battery date
 
 # Bottom modules
