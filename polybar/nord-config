@@ -70,7 +70,7 @@ top-right = keyboard clipmenu-widget onedrive-widget clash-widget pulseaudio bac
 # Bottom modules
 bottom-left = powermenu info-hackspeed 
 bottom-center = 
-bottom-right = network-detail temperature show-desktop memory cpu 
+bottom-right = show-desktop memory cpu 
 
 # Position of tray icons. Avaliable options are left/center/right and none.
 # If the tray is put at the bottom bar, then systray-top must set to none, and vice versa.
